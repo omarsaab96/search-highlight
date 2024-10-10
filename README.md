@@ -25,7 +25,7 @@ Follow these instructions to set up and run the application locally.
 ### Here is how you can run the project
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/omarsaab96/search-highlight.git
 cd search-highlight
 cd search-app
 npm i
