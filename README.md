@@ -31,6 +31,7 @@ cd search-app
 npm i
 npm start
 
+```
 
 ## Available Scripts
 
